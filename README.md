@@ -70,6 +70,9 @@ Build a NBA Legends App using ReactJS.
 
 - Step 5: Add project gif to your project and README.md file.
 
+## Demo
+[Live](https://uysalcorp.github.io/nba-legends/)
+
 ## Deployment Notes
 
 -To use the project, you need to download it from the repo to your local and then do => yarn install - yarn start
